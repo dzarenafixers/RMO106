@@ -1,0 +1,9 @@
+﻿is_enabled: true
+welcome_message: "Welcome to RMO106!"
+debug_mode: true
+
+leader_health: 200
+specialist_health: 150
+
+leader_weapon: "GunE11SR" # السلاح الذي يحمله القائد
+specialist_weapon: "GunLogicer" # السلاح الذي يحمله المختص
